@@ -1,0 +1,8 @@
+﻿  DLL2.cpp
+C:\Users\hugof\OneDrive\Documents\C++\Cherno\Dll2\Dll2\DLL2.cpp(117,43): warning C4244: '=' : conversion de '_Rep' en 'double', perte possible de données
+          with
+          [
+              _Rep=__int64
+          ]
+     CrΘation de la bibliothΦque C:\Users\hugof\OneDrive\Documents\C++\Cherno\Dll2\Debug\Dll2.lib et de l'objet C:\Users\hugof\OneDrive\Documents\C++\Cherno\Dll2\Debug\Dll2.exp
+  Dll2.vcxproj -> C:\Users\hugof\OneDrive\Documents\C++\Cherno\Dll2\Debug\Dll2.dll
